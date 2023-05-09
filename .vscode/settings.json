@@ -1,0 +1,11 @@
+{
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.env.windows": {
+        "DB_HOST":"localhost",
+        "DB_USER":"root",
+        "DB_PW":"pass",
+        "DB_SCHEMA":"users",
+    }
+}
